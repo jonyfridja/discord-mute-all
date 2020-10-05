@@ -1,0 +1,24 @@
+{
+  "name": "mute-all-in-channel",
+  "version": "1.0.0",
+  "description": "muting all members in a channel has never been easier",
+  "main": "index.js",
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synicalsyntax/discord.js-heroku.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
