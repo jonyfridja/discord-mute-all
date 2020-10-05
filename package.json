@@ -4,7 +4,7 @@
   "description": "muting all members in a channel has never been easier",
   "main": "index.js",
   "engines": {
-    "node": "12.x",
+    "node": "8.x",
     "npm": "*"
   },
   "repository": {
